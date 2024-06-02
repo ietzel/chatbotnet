@@ -1,5 +1,3 @@
-# bot.py
-
 from chatterbot import ChatBot
 
 chatbot = ChatBot("Chatpot")
